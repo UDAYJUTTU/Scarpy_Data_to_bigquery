@@ -1,5 +1,5 @@
 Environments
-Before we start I necessary to download few packages in python
+Before we start Its necessary to download few packages in python
 
 bs4 (Beautiful Soup)
        
